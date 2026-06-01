@@ -1,0 +1,45 @@
+# =========================
+# Python
+# =========================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Chroma Vector Database
+chroma_db/
+
+# MacOS
+.DS_Store
+
+# =========================
+# Next.js
+# =========================
+node_modules/
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Build files
+# =========================
+dist/
+build/
+
+# =========================
+# LangChain / Temp files
+# =========================
+.cache/
