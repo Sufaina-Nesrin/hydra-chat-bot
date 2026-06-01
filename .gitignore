@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+backend/venv/
+backend/.env
+backend/chroma_db/
+__pycache__/
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+
+# VS Code
+.vscode/
